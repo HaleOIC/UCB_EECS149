@@ -12,14 +12,14 @@ something useful:
 **Hints:** For some reason, I do not learn all the ackowledge of this course, so the `./hw` only contains some parts of the total resources, the important chapter I learn are as follows:
 
 - [x] Chapter1 Introduction
-- [ ] Chapter2 Continuous Dynamics
-- [ ] Chapter3 Discrete Dynamics
-- [ ] Chapter7 sensors and actuators
-- [ ] Chapter8 embedded system
-- [ ] Chapter9 memory techonology
-- [ ] Chapter10 Input and Output
-- [ ] Chapter11 Mulititasking
-- [ ] Chapter12 Scheduling
-- [ ] Chapter13 Temporal logic
+- [x] Chapter2 Continuous Dynamics
+- [x] Chapter3 Discrete Dynamics
+- [x] Chapter7 sensors and actuators
+- [x] Chapter8 embedded system
+- [x] Chapter9 memory techonology
+- [x] Chapter10 Input and Output
+- [x] Chapter11 Mulititasking
+- [x] Chapter12 Scheduling
+- [x] Chapter13 Temporal logic
 
 `./slides` are the same architecture.
